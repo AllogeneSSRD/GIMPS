@@ -1,0 +1,9 @@
+Transform Size = 1048576
+No P-1 checkpoints found → running Stage 1 (runPM1Marin)
+[Backend Marin] Start a P-1 factoring stage 1 up to B1=1073743000 (EXTEND mode)
+Extending PM1 from B1=1073741824 to B1=1073743000 using state from resume_p19491001_B1_1073741824.p95
+[Backend Marin] Start a P-1 factoring stage 1 up to B1=1073743000
+MAX_E_BITS = 268435456 bits (≈ 32 MiB)
+Running on device 'NVIDIA GeForce RTX 4060 Laptop GPU', vendor 'NVIDIA Corporation', version 'OpenCL 3.0 CUDA', driver '576.52'.
+24 Compute Units @ 1890 MHz, local memory size = 48 kB, max work-group size = 1024.
+
